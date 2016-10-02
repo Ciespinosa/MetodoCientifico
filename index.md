@@ -12,18 +12,11 @@ url: {lib: "."}
 bootstrap:
   theme: amelia
 navbar:
-  title: Slidify
+  title: Metodo Cientifico
   items: 
     - {item: Home, href: index,  icon: home}
     - {item: Author, href: "#/22/0", icon: pencil}
-    - {item: Style, href: "#/8/1", icon: hand-right, class: dropdown, 
-        dropdown: true, menu: [
-         {item: io2012, href: 'samples/intro'},
-         {item: deck.js, href: 'samples/deck.js'},
-         {item: shower, href: 'samples/shower'},
-         {item: landslide, href: 'samples/landslide'}
-        ]
-      }
+    - {item: Style, href: "#/8/1", icon: hand-right}
     - {item: Customize, href: "#/9/1", icon: gift}
    
 ---
@@ -792,7 +785,7 @@ El muestreo no debería generar sesgos en la muestra.
 
 --- &vertical 
 
-### 1.8 Replicar
+### 1.8 Replicas
 
 >La réplica implica una repetición independiente del experimento básico. Dicho de manera más específica, cada tratamiento se aplica de manera independiente a dos o más unidades experimentales. 
 
