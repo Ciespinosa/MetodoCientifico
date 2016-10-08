@@ -12,7 +12,7 @@ url: {lib: "."}
 bootstrap:
   theme: amelia
 navbar:
-  title: Metodo Cientifico
+  title: Método Científico
   items: 
     - {item: Home, href: index,  icon: home}
     - {item: Author, href: "#/22/0", icon: pencil}
